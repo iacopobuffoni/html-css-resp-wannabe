@@ -1,0 +1,24 @@
+@media screen and (min-width: 768px) and (max-width: 1160px) {
+    .container {
+        width: 100vw;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .container {
+        width: 100vw;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .lessons .col, .steps .col, .why-us .col-left, .why-us .col-right {
+        width: 100%;
+    }
+
+    .row {
+        flex-wrap: wrap;
+    }
+}
+
+
+
