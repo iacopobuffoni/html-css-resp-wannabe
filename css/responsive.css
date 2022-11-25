@@ -18,6 +18,18 @@
     .row {
         flex-wrap: wrap;
     }
+
+    section.why-us {
+        background-color: #222222;
+        margin-bottom: 0;
+        padding: 48px 0;
+    }
+
+    section.steps {
+        margin-bottom: 0;
+    }
+
+
 }
 
 
